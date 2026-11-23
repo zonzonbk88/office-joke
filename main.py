@@ -7,7 +7,7 @@ Gate: UTF-8, 1-199 characters, not only whitespace.
 
 import os
 
-JOKE = "We have unlimited PTO, which is why I've taken none of it \u2014 turns out 'unlimited' means 'unlimited guilt.'"
+JOKE = "I asked HR for a raise and they gave me a pizza party \u2014 turns out my salary is paid in pepperoni."
 
 
 def main() -> None:
