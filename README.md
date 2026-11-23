@@ -7,11 +7,11 @@
 One joke about office life, for the make.fun
 `u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a` bounty:
 
-> We have unlimited PTO, which is why I've taken none of it — turns out 'unlimited' means 'unlimited guilt.'
+> I asked HR for a raise and they gave me a pizza party — turns out my salary is paid in pepperoni.
 
-Unlimited-PTO guilt is a specific, widely felt office truth, and the
-redefinition punchline ("unlimited guilt") is the surprise turn, in tight
-wording.
+A pizza party instead of a raise is a lived office truth, and the
+punchline ("my salary is paid in pepperoni") reframes it in a genuinely
+unexpected way, in tight wording.
 
 ## Run it
 
@@ -20,6 +20,6 @@ python3 main.py
 ```
 
 Python 3.13, standard library only. Writes the one-line joke to
-`/output/entry.txt` (106 characters, valid UTF-8, a single line).
+`/output/entry.txt` (97 characters, valid UTF-8, a single line).
 
 MIT licensed — see `LICENSE`.
